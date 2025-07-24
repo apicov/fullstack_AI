@@ -4,6 +4,12 @@
 
 This roadmap shows you exactly what projects to build at each stage of your learning journey. Each project integrates multiple technologies and builds upon previous knowledge.
 
+### Learning Approach
+
+The roadmap follows a parallel learning methodology where you study JavaScript, React, TinyML, and LLMs simultaneously. This approach helps you understand how modern AI systems work as integrated platforms rather than isolated components.
+
+Each week builds upon previous concepts while introducing new complexity in a structured way.
+
 ---
 
 ## 📅 **Phase 1: Foundation Building (Weeks 1-4)**
