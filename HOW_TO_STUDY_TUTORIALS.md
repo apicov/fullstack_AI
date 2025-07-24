@@ -111,10 +111,10 @@ Week 3: Advanced JS + API Integration + Optimization + Fine-tuning
 
 #### **Week 5: IoT Camera Integration**
 **Daily Schedule:**
-- **30 min**: WebRTC server setup (IOT_WEBCAM_TUTORIAL.md - Chapters 2-3)
-- **30 min**: React video streaming (IOT_WEBCAM_TUTORIAL.md - Chapter 4)
-- **30 min**: TinyML camera inference (TINYML_TUTORIAL.md - Chapter 5)
-- **30 min**: LLM voice control (LLM_AGENTS_KERAS3_TUTORIAL.md - Chapter 3)
+- **30 min**: WebRTC server setup (IOT_WEBCAM_TUTORIAL.md - Chapters 2-3: Raspberry Pi Setup & WebRTC Server)
+- **30 min**: React video streaming (IOT_WEBCAM_TUTORIAL.md - Chapter 4: React Frontend Integration)
+- **30 min**: TinyML camera inference (TINYML_TUTORIAL.md - Chapter 5: Real-time Applications)
+- **30 min**: LLM voice control (LLM_AGENTS_KERAS3_TUTORIAL.md - Chapter 3: Tool Integration)
 - **30 min**: Smart camera integration project
 
 **Key Connections:**
@@ -123,10 +123,10 @@ Week 3: Advanced JS + API Integration + Optimization + Fine-tuning
 
 #### **Week 6: Advanced IoT Features**
 **Daily Schedule:**
-- **30 min**: YOLO browser integration (IOT_WEBCAM_TUTORIAL.md - Chapter 5)
-- **30 min**: Motion detection systems (IOT_WEBCAM_TUTORIAL.md - Chapter 7)
-- **30 min**: Sensor fusion (TINYML_ADVANCED_TUTORIAL.md - Chapter 2)
-- **30 min**: Intelligent alerts (LLM_AGENTS_KERAS3_TUTORIAL.md - Chapter 4)
+- **30 min**: YOLO browser integration (IOT_WEBCAM_TUTORIAL.md - Chapter 5: YOLO Object Detection)
+- **30 min**: Motion detection systems (IOT_WEBCAM_TUTORIAL.md - Chapter 7: Advanced Features)
+- **30 min**: Sensor fusion (TINYML_ADVANCED_TUTORIAL.md - Chapter 2: Optimization Techniques)
+- **30 min**: Intelligent alerts (LLM_AGENTS_KERAS3_TUTORIAL.md - Chapter 4: Advanced Agent Patterns)
 - **30 min**: Security system project
 
 **Key Connections:**
@@ -151,7 +151,7 @@ Week 3: Advanced JS + API Integration + Optimization + Fine-tuning
 - **30 min**: React PWA deployment (REACT_TUTORIAL.md - Chapters 10-11)
 - **30 min**: Edge device management (TINYML_ADVANCED_TUTORIAL.md - Chapters 4-5)
 - **30 min**: LLM production serving (LLM_AGENTS_KERAS3_TUTORIAL.md - Chapters 5-6)
-- **30 min**: IoT production deployment (IOT_WEBCAM_TUTORIAL.md - Chapter 8)
+- **30 min**: IoT production deployment (IOT_WEBCAM_TUTORIAL.md - Chapter 8: Deployment and Testing)
 
 **Key Connections:**
 - Production deployment → Monitoring → Auto-scaling → Reliability
@@ -312,13 +312,54 @@ Tomorrow's Focus: _____________
 
 ### **Weekly Assessment**
 
-**End of Week Questions:**
+**End of Week Self-Assessment Checklist:**
+
+**JavaScript Mastery Check:**
+□ Can I explain this week's concepts to someone else?
+□ Can I implement the patterns from scratch?
+□ Do I understand how this connects to React?
+□ Can I debug common issues in this area?
+
+**React Mastery Check:**
+□ Can I build components using this week's patterns?
+□ Do I understand the state management concepts?
+□ Can I integrate with APIs and external systems?
+□ Can I optimize performance where needed?
+
+**TinyML Mastery Check:**
+□ Do I understand the AI/ML concepts covered?
+□ Can I implement basic models on edge devices?
+□ Do I see connections to full-stack applications?
+□ Can I troubleshoot model performance issues?
+
+**LLM Mastery Check:**
+□ Can I work with language models effectively?
+□ Do I understand agent architectures and patterns?
+□ Can I integrate LLMs with web applications?
+□ Can I handle prompting and response processing?
+
+**Integration Mastery Check:**
+□ Can I see how all technologies work together?
+□ Could I build a project using multiple technologies?
+□ Do I understand the data flow between components?
+□ Can I design system architectures confidently?
+
+**Overall Progress Questions:**
 1. **Progress Check**: Did I complete my planned topics?
 2. **Understanding Check**: Do I understand the core concepts?
 3. **Connection Check**: Can I see relationships between topics?
 4. **Application Check**: Can I apply what I learned?
 5. **Challenge Check**: What was most difficult?
 6. **Success Check**: What went really well?
+
+### **Daily Reflection Prompts**
+
+**End of Each Study Session (5 minutes):**
+1. **Connection Question**: "How does what I just learned connect to the other topics I studied today?"
+2. **Application Question**: "Where could I use this concept in a real project?"
+3. **Pattern Question**: "What pattern or principle did I see repeated across different technologies?"
+4. **Challenge Question**: "What was the most difficult concept, and why?"
+5. **Insight Question**: "What surprised me or changed how I think about these technologies?"
 
 ### **Monthly Deep Review**
 
@@ -328,6 +369,12 @@ Tomorrow's Focus: _____________
 3. **Project Readiness**: Am I ready to build real projects?
 4. **Learning Efficiency**: How can I optimize my learning?
 5. **Next Steps**: What should I focus on next?
+
+**Monthly Reflection Exercise:**
+- **Create a concept map** showing how JavaScript, React, TinyML, and LLMs connect
+- **Write a short explanation** (200 words) of how you would build a complete AI system
+- **Identify gaps** in your understanding and plan how to address them
+- **Set goals** for the next month based on your progress
 
 ---
 
@@ -586,6 +633,60 @@ JavaScript (Language) → React (Framework) → TinyML (Edge AI) → LLMs (Cloud
 - Build something exciting with your knowledge
 - Connect learning to real-world problems
 - Find a study partner or community
+
+### **Technology-Specific Troubleshooting**
+
+#### **JavaScript Issues**
+**Problem**: Async/await concepts are confusing
+**Solution**: 
+- Practice with simple Promise examples first
+- Use console.log to trace execution flow
+- Build small async functions before complex ones
+
+**Problem**: Can't debug JavaScript errors effectively
+**Solution**:
+- Learn browser DevTools debugging
+- Use breakpoints and step-through debugging
+- Practice reading error stack traces
+
+#### **React Issues**
+**Problem**: State management is confusing
+**Solution**:
+- Start with simple useState examples
+- Draw data flow diagrams
+- Practice lifting state up in small examples
+
+**Problem**: Components aren't updating as expected
+**Solution**:
+- Check for mutation vs. immutable updates
+- Verify dependency arrays in useEffect
+- Use React DevTools to inspect state
+
+#### **TinyML Issues**
+**Problem**: Models aren't performing well
+**Solution**:
+- Start with smaller, simpler models
+- Check data preprocessing steps
+- Verify training data quality and quantity
+
+**Problem**: Edge deployment is failing
+**Solution**:
+- Test models on computer first
+- Check memory and processing constraints
+- Simplify model architecture if needed
+
+#### **LLM Issues**
+**Problem**: Prompts aren't giving good results
+**Solution**:
+- Start with simpler, more specific prompts
+- Study effective prompting techniques
+- Practice with different prompt structures
+
+**Problem**: Integration with applications is difficult
+**Solution**:
+- Test API calls separately first
+- Handle errors and timeouts gracefully
+- Start with simple text processing examples
 
 ### **Adapting Your Plan**
 

@@ -9,7 +9,7 @@ This course provides a learning path that covers multiple interconnected technol
 - Modern JavaScript development and async programming
 - React frontend development and state management
 - TinyML and edge AI deployment
-- Large Language Models and AI agents
+- Large Language Models (LLMs) and AI agents
 - IoT systems and real-time video processing
 
 The tutorials are designed to be studied in parallel, allowing you to understand how these technologies work together in modern AI applications.
