@@ -84,135 +84,149 @@ This roadmap shows you exactly what projects to build at each stage of your lear
 
 ## 📅 **Phase 2: Deep Dive (Weeks 5-8)**
 
-### **Week 5: Advanced Data Processing**
+### **Week 5: IoT Camera Integration**
 
-**Project: "Intelligent Data Pipeline"**
-- **JavaScript**: Advanced data processing with streams
-- **React**: Complex data visualization
-- **TinyML**: Multi-modal data fusion
-- **LLM**: Advanced text analysis and summarization
+**Project: "Smart Camera System"**
+- **JavaScript**: WebRTC server setup on Raspberry Pi
+- **React**: Live video streaming components
+- **TinyML**: Real-time inference on camera feed
+- **LLM**: Voice control for camera operations
 
 **Learning Goals:**
-- Master complex data processing
-- Build sophisticated visualizations
-- Understand multi-modal AI
+- Implement WebRTC streaming
+- Build real-time video interfaces
+- Integrate AI with live video
+- Create voice-controlled IoT systems
 
 **Integration Points:**
-- Stream processing patterns
-- Complex state management
-- Performance optimization
+- Real-time communication protocols
+- Browser-based AI inference
+- IoT device control patterns
+- Multi-modal input processing
 
-### **Week 6: Performance Optimization**
+### **Week 6: Advanced IoT Features**
 
-**Project: "High-Performance Analytics Platform"**
-- **JavaScript**: Optimized data processing
-- **React**: Performance-optimized components
-- **TinyML**: Model optimization and quantization
-- **LLM**: Efficient inference and caching
+**Project: "AI-Powered Security System"**
+- **JavaScript**: Motion detection and recording
+- **React**: YOLO object detection in browser
+- **TinyML**: Edge AI for sensor fusion
+- **LLM**: Intelligent alert system
 
 **Learning Goals:**
-- Master performance optimization
-- Understand bottlenecks and solutions
-- Build scalable systems
+- Implement browser-based object detection
+- Build motion detection systems
+- Create intelligent notification systems
+- Master sensor data fusion
+
+**Integration Points:**
+- Computer vision in web browsers
+- Real-time AI processing
+- Multi-sensor integration
+- Intelligent automation
+
+### **Week 7: Performance Optimization & Multi-Modal AI**
+
+**Project: "High-Performance Multi-Modal System"**
+- **JavaScript**: Optimized data processing and WebSocket handling
+- **React**: Performance-optimized components with video processing
+- **TinyML**: Advanced model optimization and sensor fusion
+- **LLM**: Efficient inference with multi-modal understanding
+
+**Learning Goals:**
+- Master performance optimization across the stack
+- Implement multi-modal AI (vision + language + sensors)
+- Build real-time processing pipelines
+- Understand edge-cloud AI coordination
 
 **Integration Points:**
 - Performance profiling and optimization
-- Caching strategies
-- Resource management
+- Multi-modal data fusion patterns
+- Real-time processing architectures
+- Edge-cloud AI distribution
 
-### **Week 7: Advanced Integration**
+### **Week 8: Production Deployment & Monitoring**
 
-**Project: "Multi-Agent Collaboration System"**
-- **JavaScript**: Complex orchestration logic
-- **React**: Multi-agent interface
-- **TinyML**: Distributed edge processing
-- **LLM**: Multi-agent communication and planning
-
-**Learning Goals:**
-- Build complex distributed systems
-- Understand agent architectures
-- Master system integration
-
-**Integration Points:**
-- Distributed system patterns
-- Agent communication protocols
-- System coordination
-
-### **Week 8: Production Deployment**
-
-**Project: "Production-Ready AI Platform"**
-- **JavaScript**: Production backend with monitoring
-- **React**: Production frontend with optimization
-- **TinyML**: Edge deployment with OTA updates
-- **LLM**: Scalable model serving
+**Project: "Production-Ready IoT AI Platform"**
+- **JavaScript**: Production backend with monitoring and security
+- **React**: Optimized frontend with PWA capabilities
+- **TinyML**: Edge deployment with OTA updates and diagnostics
+- **LLM**: Scalable model serving with load balancing
 
 **Learning Goals:**
-- Master production deployment
-- Understand monitoring and logging
-- Build scalable architectures
+- Master production deployment of IoT systems
+- Implement comprehensive monitoring and logging
+- Build scalable, secure architectures
+- Deploy edge AI with remote management
 
 **Integration Points:**
-- Production deployment patterns
-- Monitoring and observability
-- Scalability and reliability
+- Production deployment patterns for IoT
+- Security and authentication across devices
+- Monitoring and observability for edge systems
+- Scalability and reliability in distributed AI
 
 ---
 
 ## 📅 **Phase 3: Mastery & Innovation (Weeks 9-12)**
 
-### **Week 9: Advanced AI Systems**
+### **Week 9: Advanced AI Systems & Multi-Agent Coordination**
 
-**Project: "Autonomous AI Assistant"**
-- **JavaScript**: Advanced orchestration and planning
-- **React**: Sophisticated AI interface
-- **TinyML**: Advanced edge AI with learning
-- **LLM**: Autonomous reasoning and planning
+**Project: "Autonomous Multi-Agent IoT System"**
+- **JavaScript**: Advanced orchestration and agent communication
+- **React**: Multi-agent monitoring interface
+- **TinyML**: Federated learning across edge devices
+- **LLM**: Autonomous reasoning and agent collaboration
 
 **Learning Goals:**
 - Build autonomous AI systems
-- Understand advanced AI architectures
-- Master complex AI integration
+- Implement multi-agent coordination
+- Master federated learning on edge devices
+- Create self-managing IoT systems
 
 **Integration Points:**
-- Autonomous system design
-- Advanced AI reasoning
-- Complex system coordination
+- Multi-agent system architectures
+- Federated learning protocols
+- Autonomous decision-making
+- Distributed AI coordination
 
-### **Week 10: Cutting-Edge Innovation**
+### **Week 10: Cutting-Edge Innovation & Neural Architecture Search**
 
-**Project: "AI Research Platform"**
-- **JavaScript**: Research data processing
-- **React**: Advanced research interface
-- **TinyML**: Novel edge AI algorithms
-- **LLM**: Advanced language models
+**Project: "Self-Optimizing AI Research Platform"**
+- **JavaScript**: Automated model deployment pipelines
+- **React**: Neural architecture visualization
+- **TinyML**: Automated model optimization (NAS)
+- **LLM**: Self-improving language agents
 
 **Learning Goals:**
-- Contribute to AI research
-- Understand cutting-edge techniques
-- Build innovative solutions
+- Implement Neural Architecture Search
+- Build self-optimizing systems
+- Create automated AI pipelines
+- Understand cutting-edge research
 
 **Integration Points:**
-- Research methodology
-- Innovation patterns
-- Advanced AI techniques
+- Automated machine learning (AutoML)
+- Self-optimizing system design
+- Research methodology and innovation
+- Next-generation AI architectures
 
-### **Week 11: Integration Mastery**
+### **Week 11: Integration Mastery & Continual Learning**
 
-**Project: "Complete AI Ecosystem"**
-- **JavaScript**: Full ecosystem orchestration
-- **React**: Comprehensive AI interface
-- **TinyML**: Complete edge AI platform
-- **LLM**: Advanced AI agent ecosystem
+**Project: "Adaptive AI Ecosystem"**
+- **JavaScript**: Dynamic system orchestration with auto-scaling
+- **React**: Adaptive interface with real-time optimization
+- **TinyML**: Continual learning on edge devices
+- **LLM**: Self-improving agent ecosystem with memory
 
 **Learning Goals:**
-- Build complete AI ecosystems
-- Master system integration
-- Create innovative solutions
+- Build adaptive, self-improving AI ecosystems
+- Implement continual learning across all components
+- Master dynamic system integration
+- Create systems that evolve over time
 
 **Integration Points:**
-- Ecosystem design patterns
-- System integration mastery
-- Innovation and creativity
+- Continual learning architectures
+- Adaptive system design patterns
+- Dynamic resource allocation
+- Self-optimizing ecosystem management
 
 ### **Week 12: Capstone Project**
 
