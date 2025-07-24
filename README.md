@@ -40,4 +40,4 @@ Contributions are welcome! If you have suggestions, corrections, or new tutorial
 
 ## License
 
-MIT License (or specify your preferred license) 
+MIT License
